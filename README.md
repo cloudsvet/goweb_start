@@ -1,6 +1,5 @@
 # goweb_start
-Jednoduchý web server v Go pro ukázku Bring Your Own Container s Helion Development Platform 1.3 (a vysš
-í)
+Jednoduchý web server v Go pro ukázku Bring Your Own Container s Helion Development Platform 1.3 (a vysší)
 
 Více na www.cloudsvet.cz
 
