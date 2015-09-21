@@ -1,0 +1,5 @@
+applications:
+- name: byoc
+  docker_image: cloudsvet/goweb_start
+  instances: 3
+  mem: 128M
